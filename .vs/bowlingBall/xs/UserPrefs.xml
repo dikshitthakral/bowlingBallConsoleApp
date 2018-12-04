@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F48949FD-8060-4A50-BF83-A379FF3870D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bowlingBall.Test/Program.cs">
+    <Files>
+      <File FileName="bowlingBall/Program.cs" Line="32" Column="2" />
+      <File FileName="bowlingBall/Frame.cs" Line="33" Column="28" />
+      <File FileName="bowlingBall/FrameScore.cs" Line="31" Column="62" />
+      <File FileName="bowlingBall.Test/FrameTest.cs" Line="22" Column="10" />
+      <File FileName="bowlingBall.Test/FrameScoreTest.cs" Line="92" Column="10" />
+      <File FileName="bowlingBall.Test/Program.cs" Line="23" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="bowlingBall" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dthakral/Projects/bowlingBall/bowlingBall/Program.cs" relfile="bowlingBall/Program.cs" line="28" column="1" />
+      <Breakpoint file="/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/FrameTest.cs" relfile="bowlingBall.Test/FrameTest.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.bowlingBall PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

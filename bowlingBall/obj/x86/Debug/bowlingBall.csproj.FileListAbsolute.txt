@@ -1,0 +1,5 @@
+/Users/dthakral/Projects/bowlingBall/bowlingBall/bin/Debug/bowlingBall.exe
+/Users/dthakral/Projects/bowlingBall/bowlingBall/bin/Debug/bowlingBall.pdb
+/Users/dthakral/Projects/bowlingBall/bowlingBall/obj/x86/Debug/bowlingBall.csproj.CoreCompileInputs.cache
+/Users/dthakral/Projects/bowlingBall/bowlingBall/obj/x86/Debug/bowlingBall.exe
+/Users/dthakral/Projects/bowlingBall/bowlingBall/obj/x86/Debug/bowlingBall.pdb

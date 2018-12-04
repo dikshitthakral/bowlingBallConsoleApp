@@ -1,0 +1,12 @@
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/bin/Debug/bowlingBall.Test.exe
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/bin/Debug/bowlingBall.Test.pdb
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/bin/Debug/bowlingBall.exe
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/bin/Debug/bowlingBall.pdb
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/obj/x86/Debug/bowlingBall.Test.csprojResolveAssemblyReference.cache
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/obj/x86/Debug/bowlingBall.Test.csproj.CoreCompileInputs.cache
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/obj/x86/Debug/bowlingBall.Test.exe
+/Users/dthakral/Projects/bowlingBall/bowlingBall.Test/obj/x86/Debug/bowlingBall.Test.pdb

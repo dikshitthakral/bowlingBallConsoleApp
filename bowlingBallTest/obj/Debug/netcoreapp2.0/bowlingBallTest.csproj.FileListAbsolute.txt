@@ -1,0 +1,14 @@
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/obj/Debug/netcoreapp2.0/bowlingBallTest.csprojResolveAssemblyReference.cache
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/obj/Debug/netcoreapp2.0/bowlingBallTest.csproj.CoreCompileInputs.cache
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/obj/Debug/netcoreapp2.0/bowlingBallTest.AssemblyInfoInputs.cache
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/obj/Debug/netcoreapp2.0/bowlingBallTest.AssemblyInfo.cs
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/bin/Debug/netcoreapp2.0/bowlingBallTest.deps.json
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/bin/Debug/netcoreapp2.0/bowlingBallTest.runtimeconfig.json
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/bin/Debug/netcoreapp2.0/bowlingBallTest.runtimeconfig.dev.json
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/bin/Debug/netcoreapp2.0/bowlingBallTest.dll
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/bin/Debug/netcoreapp2.0/bowlingBallTest.pdb
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/obj/Debug/netcoreapp2.0/bowlingBallTest.dll
+/Users/dthakral/Projects/bowlingBall/bowlingBallTest/obj/Debug/netcoreapp2.0/bowlingBallTest.pdb
